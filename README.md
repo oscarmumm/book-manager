@@ -11,6 +11,8 @@ Data structure:
 - surname
 - email
 - phone
+- username
+- password
 - role (admin | user)
 
 # Books

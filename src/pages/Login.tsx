@@ -1,7 +1,6 @@
 import {useState} from 'react'
 import SignUpForm from '../components/SignUpForm'
 import LogInForm from '../components/LogInForm'
-import Header from '../components/Header'
 
 export default function Login() {
     const [signUpFormActive, setSignUpFormActive] = useState(false)
