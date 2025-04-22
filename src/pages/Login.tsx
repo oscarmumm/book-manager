@@ -8,7 +8,6 @@ export default function Login() {
 
     return (
         <div className="p-3 w-full min-w-xs max-w-lg flex flex-col h-full">
-            <Header />
             <div className="flex justify-around my-8">
                 <button
                     className={`w-24 text-gray-50 font-bold text-2xl cursor-pointer ${
